@@ -1,5 +1,5 @@
 # My CS Profile
 
 ## About Me
-- Name: Somchai
+- Name: Apicha phoyen
 - Major: Computer Science
